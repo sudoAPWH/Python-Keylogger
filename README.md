@@ -17,7 +17,7 @@ Instructions to Run the Keylogger Project Using the .command file
 
 Step 1, In your terminal, run 
 
-git clone https://github.com/sudoAPWH/Python-Keylogger.git t && cd keylogger && chmod +x install_and_run.command keylogger.py
+"git clone https://github.com/sudoAPWH/Python-Keylogger.git t && cd keylogger && chmod +x install_and_run.command keylogger.py"
 
 Step 2, find the cloned directory, click the .command file, and there! you are set up! You should find the logged key strokes in a .txt file in the directory.
 
