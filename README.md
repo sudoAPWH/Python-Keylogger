@@ -19,4 +19,5 @@ One of our primary development goals is to package the keylogger in a convenient
 Instructions to Run the Keylogger Project Using the .command File
 
 In your terminal, run 
+
 git clone https://github.com/sudoAPWH/Python-Keylogger.git t && cd keylogger && chmod +x install_and_run.command keylogger.py
