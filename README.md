@@ -1,6 +1,6 @@
-# Python Keylogger for Mac/Linux
+# Python Keylogger for Mac
  
- Welcome to the Keylogger Project – a user-friendly keylogger designed primarily for macOS, with compatibility for Linux systems as well. This project aims to make keylogging straightforward and accessible for security-minded users who want to monitor activity on their computers.
+ Welcome to the Keylogger Project – a user-friendly keylogger designed primarily for macOS, can be edited for Linux systems as well. This project aims to make keylogging straightforward and accessible for security-minded users who want to monitor activity on their computers.
 
 Project Purpose
 Keyloggers are often associated with malicious intent, but this keylogger is different. Our goal is to create a tool that enhances your computer's security and keeps you informed about what happens when you’re away. Whether you’re using it as a monitoring tool or a security measure, this keylogger prioritizes ease of use.
@@ -15,7 +15,7 @@ Plug-and-Play Functionality: Simply run the keylogger .command file, and you're 
 
 Instructions to Run the Keylogger Project Using the .command file
 
-Step 1, In your terminal, run 
+Step 1, MACOS install, In your terminal, run 
 
 "git clone https://github.com/sudoAPWH/Python-Keylogger.git t && cd keylogger && chmod +x install_and_run.command keylogger.py"
 
