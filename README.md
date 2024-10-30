@@ -9,15 +9,14 @@ Key Features
 User-Friendly Design: Built with accessibility in mind, this keylogger is as easy to use as possible – limited complex setup or configuration required.
 
 Cross-Platform Compatibility: Works on both macOS and Linux, ensuring wide support across Unix-based systems.
-Plug-and-Play Functionality: Simply run the keylogger executable file, and you're ready to go. (An executable package format is in the works, allowing easy, one-click setup).
-
-Future Goals
-One of our primary development goals is to package the keylogger in a convenient executable format, so users can simply download, click, and start using it right away – no installation hassles or configuration steps required!
+Plug-and-Play Functionality: Simply run the keylogger .command file, and you're ready to go. 
 
 
 
-Instructions to Run the Keylogger Project Using the .command File
+Instructions to Run the Keylogger Project Using the .command file
 
-In your terminal, run 
+Step 1, In your terminal, run 
 
 git clone https://github.com/sudoAPWH/Python-Keylogger.git t && cd keylogger && chmod +x install_and_run.command keylogger.py
+
+Step 2, find the cloned directory, click the .command file, and there! you are set up!
