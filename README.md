@@ -13,3 +13,22 @@ Plug-and-Play Functionality: Simply run the keylogger executable file, and you'r
 
 Future Goals
 One of our primary development goals is to package the keylogger in a convenient executable format, so users can simply download, click, and start using it right away – no installation hassles or configuration steps required!
+
+
+
+Instructions to Run the Keylogger Project Using the .command File
+Clone the Repository: Open your Terminal and clone your keylogger repository from GitHub. Replace yourusername and keylogger with your GitHub username and repository name:
+
+bash
+Copy code
+git clone https://github.com/yourusername/keylogger.git
+Navigate to the Project Directory: Change to the directory of your cloned project:
+
+bash
+Copy code
+cd keylogger
+Make Sure the .command File is Executable: Ensure your install_and_run.command file is executable. If it’s not, run:
+
+bash
+Copy code
+chmod +x install_and_run.command
