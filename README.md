@@ -17,18 +17,6 @@ One of our primary development goals is to package the keylogger in a convenient
 
 
 Instructions to Run the Keylogger Project Using the .command File
-Clone the Repository: Open your Terminal and clone your keylogger repository from GitHub. Replace yourusername and keylogger with your GitHub username and repository name:
 
-bash
-Copy code
-git clone https://github.com/yourusername/keylogger.git
-Navigate to the Project Directory: Change to the directory of your cloned project:
-
-bash
-Copy code
-cd keylogger
-Make Sure the .command File is Executable: Ensure your install_and_run.command file is executable. If it’s not, run:
-
-bash
-Copy code
-chmod +x install_and_run.command
+In your terminal, run 
+git clone https://github.com/yourusername/keylogger.git && cd keylogger && chmod +x install_and_run.command keylogger.py
