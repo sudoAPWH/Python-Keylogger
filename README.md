@@ -4,7 +4,9 @@
 The goal if this project is to make a keylogger user friendly!
 
 
-Most of the time, keyloggers are associated with "Big bad Hackers" but I want them to become a common security measure for your computer to use while you are away, or just to keep secure.
+Keyloggers are mostly associated as "Bad"
+
+But this keylogger, will become a common security measure for your computer to use while you are away, or just to keep secure.
 
 
-This keylogger is made to be SUPER easy to use! One of my goals for this project, is to make the KeyLogger itself a executable file, (all you have to do is click the file and there you got it, a KeyLogger!
+And is made to be SUPER easy to use! One of my goals for this project, is to make the KeyLogger itself a package containing an executable file, (all you have to do is click the .exe file and there you got it, a KeyLogger!
