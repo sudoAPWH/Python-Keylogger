@@ -21,7 +21,7 @@ echo "Creating virtual environment..."
 python3 -m venv keylogger_env
 source keylogger_env/bin/activate
 
-# Install dependencies (e.g., pynput and pygetwindow)
+# Install dependencies
 echo "Installing dependencies..."
 pip3 install pynput
 
