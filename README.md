@@ -22,3 +22,5 @@ Step 1, MACOS install, In your terminal, run
 Step 2, find the cloned directory, click the .command file, and there! you are set up! You should find the logged key strokes in a .txt file in the directory.
 
 Note: this program will NOT run in the backround, I suggest you minimise the window to make it not show on your desktop. 
+
+Also, when you clone the repo, it should put the files in your home directory. If the files are not in your home directory, you will have to move them there. The script is made to get the files from there, if they are not there, THE SCRIPT WILL NOT RUN!
