@@ -9,6 +9,7 @@ Key Features
 User-Friendly Design: Built with accessibility in mind, this keylogger is as easy to use as possible – limited complex setup or configuration required.
 
 Cross-Platform Compatibility: Works on both macOS and Linux, ensuring wide support across Unix-based systems. (May require additional setup if using Linux) 
+
 Plug-and-Play Functionality: Simply run the keylogger .command file, and you're ready to go. 
 
 
